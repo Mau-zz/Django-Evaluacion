@@ -1,2 +1,2 @@
 # Django-Evaluacion
-sadsasadsa
+Para acceder al código del proyecto, primero se debe iniciar el servidor. Para visualizar algunas de las vistas, es necesario copiar y pegar en el navegador el enlace http://127.0.0.1:8000/register/, lo que permitirá acceder a una página donde se puede realizar un registro. Una vez ingresadas las credenciales, se habilitarán las vistas de Crear Tarea y Lista de Tareas. Para acceder a la API, es fundamental que el servidor esté en ejecución. Luego, se puede ingresar a la URL http://127.0.0.1:8000/api/tasks/ para realizar peticiones.
